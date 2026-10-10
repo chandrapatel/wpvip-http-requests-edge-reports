@@ -1,0 +1,10 @@
+# Logs and generated reports hold site traffic data. Keep them out of the repo.
+http_requests_edge/
+http_requests_origin/
+reports/
+*.gz
+*.json
+
+__pycache__/
+*.pyc
+.DS_Store
